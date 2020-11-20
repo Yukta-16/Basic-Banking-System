@@ -5,6 +5,10 @@ Hosting platform -> 000Webhost.
 
 Website link : https://yukta-thakur16.000webhostapp.com/index.php
 
+Youtube Link: https://youtu.be/2l1F4c_ix-8
+
+LinkedIn : https://www.linkedin.com/posts/yukta-thakur-39b8b1199_gripnov20-tsf-internship-activity-6735261060418404353-f38L
+
 Developed by: Yukta Thakur
 
 Contact: yuktathakur16@gmail.com
